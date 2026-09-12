@@ -1,0 +1,30 @@
+Automobile Management System (AMS)
+
+AMS (Automobile Management System) is a console-based Java application developed as part of learning Java programming and Object-Oriented Programming concepts.
+
+
+Features
+Admin can add new cars.
+Customers can view available cars.
+Cars can be filtered by:
+Price
+Make
+Seating capacity
+Fuel type
+Customers can book a car.
+Customers can sell their cars through the system.
+Car and selling details are stored using text files (cars.txt and sellcars.txt).
+Java Concepts Used
+Classes and Objects
+Constructors
+Inheritance
+Method Overriding
+Encapsulation
+ArrayList
+File Handling
+Exception Handling
+Scanner
+Loops and Conditional Statements
+Switch Statements
+
+Technologies: Java, Maven
