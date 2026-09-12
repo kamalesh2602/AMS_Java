@@ -1,0 +1,42 @@
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# IDE files - IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE files - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE files - VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Java crash dumps
+hs_err_pid*
+replay_pid*

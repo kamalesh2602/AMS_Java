@@ -1,0 +1,9 @@
+Suzuki,Breeza,8,890000.0,Petrol
+Ford,Figo,5,750000.0,Diesel
+BMW,X86,5,890000.0,Diesel
+mahindra,thar,8,870000.0,diesel
+Toyota,Supra,6,890000.0,Fuel
+Porsche,611,2,5.0E7,Diesel
+Tata,Nano,4,650000.0,Petrol
+Suzuki,Alto,4,350000.0,Petrol
+Z8,BMW,4,8399000.0,Petrol

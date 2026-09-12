@@ -1,0 +1,3 @@
+Tata,Nano,4,650000.0,Petrol,Kaarthick
+Suzuki,Alto,4,350000.0,Petrol,Eswar
+Z8,BMW,4,8399000.0,Petrol,kamalesh
